@@ -200,7 +200,7 @@ mall
 - 使用MinIO存储文件请参考：[使用MinIO实现文件存储](https://www.macrozheng.com/project/minio_console_start.html);
 - 读写分离解决方案请参考：[你还在代码里做读写分离么，试试这个中间件吧](https://www.macrozheng.com/project/gaea.html);
 - Redis集群解决方案请参考：[Docker环境下秒建Redis集群](https://www.macrozheng.com/blog/redis_cluster.html) 。
-
+test pull request
 ## 公众号
 
 加微信群交流，关注公众号「**macrozheng**」，回复「**加群**」即可。
